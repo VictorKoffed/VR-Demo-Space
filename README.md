@@ -1,4 +1,4 @@
-# 🌌 Project VR Demo: Space
+# 🌌 VR Demo: Space
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Virtual Reality](https://img.shields.io/badge/VR-OpenXR-red?style=flat)](#)
