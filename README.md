@@ -1,33 +1,33 @@
-# 🌌 Projekt VR-Demo: Space
+# 🌌 Project VR Demo: Space
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Virtual Reality](https://img.shields.io/badge/VR-OpenXR-red?style=flat)](#)
 [![Blueprints](https://img.shields.io/badge/Blueprints-Visual_Scripting-0e7acc?style=flat)](#)
 
-Ett projekt för **Virtual Reality** byggt i **Unreal Engine 5**. Projektet består av två olika interaktiva rymd-demos som visar upp miljödesign, belysning och VR-mekanik.
+A **Virtual Reality** project built in **Unreal Engine 5**. The project consists of two different interactive space demos showcasing environment design, lighting, and VR mechanics.
 
 ---
 
-## 🎬 Videodemo
+## 🎬 Video Demo
 
-Klicka på bilderna nedan för att se demonstrationerna på YouTube.
+Click the images below to watch the demos on YouTube.
 
 ### 1. International Space Station (ISS) VR Demo
-*En återskapning av miljön inuti ISS rymdstationen.*
+*A recreation of the interior environment of the ISS space station.*
 [![International space station](https://img.youtube.com/vi/paJarD2q4BY/maxresdefault.jpg)](https://youtu.be/paJarD2q4BY)
 
 ### 2. Space Ship VR Demo
-*En interaktiv demo inuti ett fantasy sci-fi rymdskepp.*
+*An interactive demo inside a fantasy sci-fi spaceship.*
 [![Space ship](https://img.youtube.com/vi/aKw2Q5sjrV8/maxresdefault.jpg)](https://youtu.be/aKw2Q5sjrV8)
 
 ---
 
-## 🚧 Framtida utveckling
+## 🚧 Future Development
 
-Projektet kommer att uppdateras framöver med mer teknisk dokumentation. Planerade tillägg är bland annat:
+The project will be updated with more technical documentation in the future. Planned additions include:
 
-- **Bilder och förklaringar av Blueprints:** För att visa upp logiken bakom VR-interaktionerna.
-- **Kodexempel (blueprints):** Insikter i hur specifika mekaniker implementerades.
-- **Arkitektur:** Beskrivning av hur projektet är strukturerat i Unreal Engine 5.
+- **Blueprint images and explanations:** To showcase the logic behind the VR interactions.
+- **Code examples (Blueprints):** Insights into how specific mechanics were implemented.
+- **Architecture:** A description of how the project is structured in Unreal Engine 5.
 
-*(Dokumentationen uppdateras så fort utvecklingsmiljön för UE5 är fullt uppsatt på min nuvarande Linux-maskin).*
+*(The documentation will be updated as soon as the UE5 development environment is fully set up on my current Linux machine.)*
