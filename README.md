@@ -15,7 +15,7 @@ A **Virtual Reality** project built in **Unreal Engine 5**. The project consists
 Click the images below to watch the demos on YouTube.
 
 ### 1. International Space Station (ISS) VR Demo
-*A recreation of the interior environment of the ISS space station.*
+*A recreation of the interior and exterior environment of the ISS space station.*
 [![International space station](https://img.youtube.com/vi/paJarD2q4BY/maxresdefault.jpg)](https://youtu.be/paJarD2q4BY)
 
 ### 2. Space Ship VR Demo
