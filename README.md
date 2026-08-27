@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="VR Demo: Space">
+  <img src="images/banner.png" width="100%" alt="VR Demo: Space">
 </div>
 
 # 🌌 VR Demo: Space
