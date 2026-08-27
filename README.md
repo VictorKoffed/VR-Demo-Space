@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="images/banner.png" width="100%" alt="VR Demo: Space">
+  <img src="images/logobanner.png" width="100%" alt="VR Demo: Space">
 </div>
-
-# 🌌 VR Demo: Space
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 [![Virtual Reality](https://img.shields.io/badge/VR-OpenXR-red?style=flat)](#)
