@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logobanner.png" width="100%" alt="VR Demo: Space">
+  <img src="images/bannerlogo.png" width="100%" alt="VR Demo: Space">
 </div>
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
